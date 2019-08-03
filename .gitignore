@@ -32,3 +32,5 @@ Thumbs.db
 *.zip
 *.deb
 /nbactions.xml
+
+rpi-tools/

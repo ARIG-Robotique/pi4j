@@ -31,8 +31,8 @@ package com.pi4j.io.file;
 
 import com.pi4j.util.NativeLibraryLoader;
 
-import sun.misc.Cleaner;
-import sun.misc.SharedSecrets;
+import jdk.internal.ref.Cleaner;
+import jdk.internal.misc.SharedSecrets;
 
 import java.io.FileDescriptor;
 import java.io.FileNotFoundException;
